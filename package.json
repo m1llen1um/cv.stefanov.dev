@@ -1,0 +1,22 @@
+{
+  "name": "cv.milen.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pre-build": "mkdir build",
+    "build": "node node_modules/resume-cli/index.js export index -f html -t elegant",
+    "post-build": "copy index.html build\\index.html",
+    "build-pdf": "node node_modules/resume-cli/index.js export cv.milen.pdf.html -t onepage -f html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "jsonresume-theme-elegant": "^1.12.1",
+    "jsonresume-theme-onepage": "^0.0.3",
+    "jsonresume-theme-paper": "^0.5.0",
+    "puppeteer": "^1.16.0",
+    "resume-cli": "^1.2.8"
+  }
+}

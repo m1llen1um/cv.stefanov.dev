@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Milen Stefanov",
+    "label": ".Net Developer",
+    "picture": "imgs/pic.jpg",
+    "summary": "I'm a .Net developer with focus at cyber-security and identity verification space. My background includes Web API designs (REST and RPC), identity verification, user authentication and authorization. Highly motivated and interested in my current domain, I believe that security is an indispensable part of any modern information platform.",
+    "location": {
+      "city": "Saint Petersburg",
+      "countryCode": "Russia"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "milen-stefanov",
+        "url": "https://www.linkedin.com/pub/milen-stefanov/"
+      },
+      {
+        "network": "telegram",
+        "username": "@milen4work",
+        "url": "https://t.me/milen4work"
+      },
+      {
+        "network": "github",
+        "username": "m1llen1um",
+        "url": "https://github.com/m1llen1um"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CertifID",
+      "position": "Senior .Net Developer @ CertifID",
+      "website": "https://certifid.com",
+      "startDate": "2020-09-01",
+      "endDate": "2023-01-31",
+      "summary": "The post MVP period involved multiple integrations and new products in the domain of the wire transfer. The product received multiple investments rounds and recognition in ALTA and Forbes.",
+      "highlights": [
+        "Resolving different sets of security and wire fraud challenges in the product's domain",
+        "Migration from: monolith to micro-services; oAuth to OpenID Connect; Introducing Elastic Search later MongoDB with Lucine",
+        "Product redundancy and scalability improvements",
+        "Knowledge sharing and participating of the team modeling during the fast company growth period"
+      ]
+    },
+    {
+      "company": "Yumasoft",
+      "position": ".Net Developer @ Yumasoft",
+      "website": "https://yumasoft.com",
+      "startDate": "2012-10-01",
+      "endDate": "2020-09-30",
+      "summary": "Working on different projects and positions, starting as Automated QA engineer, later developer up to senior software engineer and team lead.",
+      "highlights": [
+        "2 years @ NEC's NeoFace (www.nec.com) - Facial Recognition platform for location access management; role: automated QA and software engineer on the web portal",
+        "3 years @ LiveTable (www.livetable.de) - Restaurant and hotel management platform for order and promotions reservations; role: initially a senior engineer and later team lead",
+        "3 months @ YumaPos (www.yumapos.com) - POS for restaurants; role: full-stack developer",
+        "3 years @ CertifID MVP Stage (www.certifid.com) - Identity verification for safe wire transfers in title industry; role: team lead"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Back-End Languages & Frameworks",
+      "level": "Master",
+      "keywords": [
+        "C#",
+        "MS-SQL",
+        "MongoDB",
+        "ASP.NET",
+        "Entity Framework",
+        "Dapper",
+        "xUnit",
+        "PactFlow",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Intermediate",
+      "keywords": [
+        "Practical Cryptography (RNG, Hashing, Symmetric/Asymmetric encryption, various PKCS, FIDO, Cloud Key Vaults)",
+        "oAuth 2.0",
+        "OpenID Connect",
+        "Knowledge-Based Authentication",
+        "Digital Profiling and Verification",
+        "IP Based Geo-Fencing"
+      ]
+    },
+    {
+      "name": "Front-End Languages & Libraries",
+      "level": "Intermediate",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "react.js",
+        "redux",
+        "redux-forms",
+        "saga.js",
+        "jQuery",
+        "Knockout"
+      ]
+    },
+    {
+      "name": "Dev Ops",
+      "level": "Intermediate",
+      "keywords": [
+        "linux",
+        "Microsoft Azure",
+        "Team City",
+        "docker",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Development by the Agile Manifesto",
+        "OKRs",
+        "JIRA",
+        "Trello",
+        "Lattice",
+        "Slack"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Economics - Varna (Bulgaria)",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2006-06-01",
+      "endDate": "2010-03-01",
+      "courses": [
+        "Mathematics",
+        "C/C++, .Net",
+        "Databases",
+        "Micro and macro economics"
+      ]
+    },
+    {
+      "institution": "Microsoft Virtual Academy",
+      "area": "Courses",
+      "studyType": "Online",
+      "startDate": "2013-01-01",
+      "endDate": "2014-12-31",
+      "courses": [
+        "Microsoft Azure Fundamentals",
+        "Microsoft Azure Fundamentals: Websites",
+        "Introduction to ASP.NET Core",
+        "Business Services that should be Considered for Startups"
+      ]
+    },
+    {
+      "institution": "Coursera",
+      "url": "https://coursera.org/share/ce5f5ec9263ad501127e955f952c675f",
+      "area": "Courses",
+      "studyType": "Online",
+      "startDate": "2019-01-01",
+      "endDate": "2019-02-09",
+      "courses": [
+        "Cryptography I @ Stanford University"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Bulgarian",
+      "fluency": "native"
+    }
+  ],
+  "references": [
+    {
+      "name": "Srinath Kuruvadi - Head of Cloud Security at Netflix",
+      "reference": "Enjoyed working with Milen on the original architecture behind CertifID services. Very passionate about software engineering best practices. We worked closely on security related capabilities including web application security and production infrastructure access & hardening pieces. He single handedly built a lot of backend services in Azure/.Net environments. Highly recommend Milen!"
+    },
+    {
+      "name": "Maximilian Kirchoff - VP of Technology at CertifID, Alumni of Google, ADP innovation lab, and Gannett innovation lab",
+      "reference": "I had the pleasure of working with Milen at CertifID, where he was a Senior Software Engineer. While working with Milen, he demonstrated expertise in application architecture, system thinking, algorithm design, coding best practices, and a general mastery of programming for business applications. He was also an enthusiastic collaborator who regularly coached his colleagues through their projects and assignments. Milen was always ready to take on new challenges, learn new things, and teach his peers. He approached new problems and difficult situations with an open mind and a solution-oriented approach. I believe that any team would benefit from Milen’s skills and contributions."
+    }
+  ]
+}
